@@ -1,0 +1,7 @@
+.task-btn {
+    visibility: hidden;
+}
+
+.task-wrapper:hover .task-btn {
+    visibility: visible;
+}
